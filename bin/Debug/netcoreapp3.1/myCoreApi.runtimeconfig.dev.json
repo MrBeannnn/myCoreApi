@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\xudian\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\xudian\\.nuget\\packages"
+    ]
+  }
+}
